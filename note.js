@@ -97,7 +97,7 @@ search.addEventListener("input",function(){
 
     //    console.log(mainText);
 
-    })
+    }) 
 
 
 
